@@ -1,2 +1,2 @@
-# toronto-real-estate-visualization
-Data Visualisation Project for Toronto Real Estate Market
+# Rocket or Cliff: Toronto Real Estate Research
+Housing Market in Greater Toronto Area nowadays becomes more and more popular topic. Among all questions, "is GTA housing market overvalued" is the most asked question for all researchers. In the project, we will try to evaluate GTA Housing Market by visualization and some machine learning techniques including recurrent neural network and ridge regression.
